@@ -37,7 +37,7 @@ Given the long trading horizon, it's important to choose a coin you believe will
 - **Operational Depth Control**: Ensures you catch large volatile moves.
 - **Trading Modes**: Accumulation, Decumulation, Rebalance, and Auto modes tailored to market conditions.
 
-## Starting the Strategy - How I Do It in 4 Steps
+## Starting The Strategy - 4 Steps
 
 1. **Determine Trading Bounds**: Use TradingView charts to identify areas of significant support and resistance levels using a weekly or monthly timeframe.
 2. **Use the Starting Calculator**: Calculate the triangle of capital, intervals, and range. You can use the calculator to provide different scenarios based on your risk appetite.
