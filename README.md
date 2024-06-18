@@ -16,19 +16,19 @@ Quanta G-Type is ideal for long-term investors who can handle market volatility 
 
 Profits are generated through four mechanisms, which are fully quantitatively calculated and updated on each tick. These mechanisms ensure that as price moves down, accumulation takes place:
 
-- **Accumulation**: Accumulates the quote (e.g., "BTC") currency by posting orders with the same base (e.g., "USDT") amount. Profits are realised in quote.
+- **Accumulation**: Accumulates the quote (e.g. "BTC") currency by posting orders with the same base (e.g. "USDT") amount. Profits are realised in quote.
 - **Decumulation**: Realises profit in the base asset by utilising the accumulated quote at a higher price. Orders are posted with the same quote size. Decumulation is not selling all, it is the financial process of drawing down profit from your investment.
 - **Rebalance**: Uses distinct buy and sell order values when deep price moves create an imbalance in buying or selling power.
 
 ## What Are My Risks?
 
-Given the long trading horizon, it's crucial to choose a coin you believe will maintain value over the long term. The main risk is price falling below lower bounds, but this is mitigated by trading large ranges. Spread trading gains can offset decreased inventory value during downtrends.
+Given the long trading horizon, it's important to choose a coin you believe will maintain value over the long term, this requires your knowledge and trading risk. The main risk is price falling below lower bounds, but this is mitigated by trading large ranges. Spread trading gains can offset decreased inventory value during downtrends.
 
 **Remember**: During long declines, market making reduces losses rather than realising actual profits.
 
 ## Operational Features
 
-- **Auto Compounding**
+- **Auto Compounding**: Profits are automatically managed to accumulate and compound profits in quote and base.
 - **Auto Inventory Management**: Flips profits in either quote or base currency.
 - **Auto Trading Limits**: Refreshes balances and order arrays on each buy or sell.
 - **Auto Sloping of Buy and Sell Orders**: Orders placed around the price midpoint with profits increasing from the middle to bounds.
