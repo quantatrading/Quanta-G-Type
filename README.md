@@ -42,6 +42,7 @@ Given the long trading horizon, it's crucial to choose a coin you believe will m
 4. **Auto Setup**: Ensure Auto Setup is enabled, add your Intervals %, Upper and Lower Bound, Order Depth and Min Volume to Sell. Do not change any other settings.
 
 ![Example of Trading Settings Auto Setup](https://github.com/quantatrading/Quanta-G-Type/assets/3750100/46a3bc05-2413-4af1-be0e-1c4770f9e873)
+**Example of the only settings required for an Automatic Setup**
 
 ## Additional Important Info
 Quanta G-Type uses your entire wallet balance for trading the configured pair. It’s highly advisable to use a distinct sub-account on your exchange.
