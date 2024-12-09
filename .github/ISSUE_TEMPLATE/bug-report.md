@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Gunbot and exoTrader version**
+**Gunbot and Quanta G-Type version**
  - Gunbot version: [e.g. 28.5.8]
  - Quanta G-Type version [e.g. 1.1]
 
